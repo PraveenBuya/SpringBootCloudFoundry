@@ -1,5 +1,5 @@
 applications:
 - name: SpringJPA-PostgreSQL
-  memory: 512M
+  memory: 1G
   host: SpringJPA-PostgreSQL
   path: target/SpringJPA-PostgreSQL-0.0.1.jar
